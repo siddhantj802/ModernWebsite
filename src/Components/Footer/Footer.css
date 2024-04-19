@@ -1,0 +1,19 @@
+.footer{
+    width: 100%;
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px auto;
+    background-color: #0d1939;
+    color: rgba(201, 204, 206, 0.995);
+    
+    
+}
+
+.footer ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+
+}
